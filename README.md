@@ -46,23 +46,34 @@ Solo full-stack developer based in Greater Noida, Delhi NCR. I take products fro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,kotlin,rust,html,css&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio,nodejs,express,django&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,cloudflare,vscode,linux&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="180"><b>Languages</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=js,ts,py,kotlin,rust,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend and Mobile</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases and Cloud</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 ## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/code-by-RJ/Telegram-Drive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-by-RJ&repo=Telegram-Drive&theme=radical&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=CBD5E1" />
-</a>
-
-</div>
 
 <details open>
 <summary><b>Vault</b> — Zero-knowledge encrypted document vault &nbsp;·&nbsp; <a href="https://vault.spacego.online">Live</a></summary>
